@@ -13,37 +13,22 @@ Application de recommandation de produits combinant plusieurs approches, avec un
 * **Évaluation (bonus)** : Precision@K, Recall@K, F1-score.
 * **Explications** simples pour chaque recommandation.
 
-\## 📸 Aperçu
+## 📸 Aperçu
 
+### Content-Based Filtering
+![Content-Based](images/content.png)
 
+### Collaborative Filtering
+![Collaborative Filtering](images/collab.png)
 
-\### Content-Based Filtering
+### Time-Aware
+![Time-Aware](images/temps.png)
 
-!\[Content-Based](images/content.png)
+### Modèle hybride
+![Hybride](images/hybride.png)
 
-
-
-\### Collaborative Filtering
-
-!\[Collaborative Filtering](images/collab.png)
-
-
-
-\### Time-Aware
-
-!\[Time-Aware](images/temps.png)
-
-
-
-\### Modèle hybride
-
-!\[Hybride](images/hybride.png)
-
-
-
-\### Évaluation (Precision@K, Recall@K, F1-score)
-
-!\[Évaluation](images/evaluation.png)
+### Évaluation (Precision@K, Recall@K, F1-score)
+![Évaluation](images/evaluation.png)
 
 ## 🧰 Technologies
 
